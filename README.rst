@@ -1,7 +1,7 @@
 lycaste
 =======
 
-noVNC websocker to TCP proxy and web server.
+noVNC websocket to TCP proxy and web server.
 
 running
 -------
