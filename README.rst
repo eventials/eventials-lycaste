@@ -9,10 +9,10 @@ running
 running proxy and webserver::
 
     cd noVNC
-    ./utils/websockify --web ./ 8000 localhost:5900
+    ./utils/websockify --web ./ 8080 33.33.33.12:5900
 
 
-then just access http://localhost:8000/vnc.html?host=precise64&port=8000
+then just access http://localhost:8080/vnc.html?host=localhost&port=8080
 
 
 `Lycaste <http://en.wikipedia.org/wiki/Lycaste>`_
