@@ -3,6 +3,15 @@ lycaste
 
 noVNC websocket to TCP proxy and web server.
 
+
+Documentation
+-------------
+
+Diagram describing usgae of eventials-ophrys backend technology and its interactions as a lib for eventials-lycaste:
+
+.. image:: diagram.png
+
+
 running
 -------
 
