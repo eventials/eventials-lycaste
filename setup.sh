@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo apt-get install -y curl htop vim python-virtualenv python-dev
+sudo apt-get install -y curl htop vim python-virtualenv python-dev python-numpy

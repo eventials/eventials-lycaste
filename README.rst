@@ -17,7 +17,7 @@ deploy
 
 deploy for dotcloud staging::
 
-  pip install dotcloud
+  sudo pip install dotcloud
   dotcloud connect lycaste && dotcloud push
 
 
