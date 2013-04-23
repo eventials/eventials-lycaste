@@ -7,7 +7,7 @@ noVNC websocket to TCP proxy and web server.
 Documentation
 -------------
 
-Diagram describing usage of eventials-ophrys backend technology and its interactions as a lib for eventials-lycaste:
+Diagram describing backend technology and its interactions:
 
 .. image:: diagram.png
 
