@@ -12,6 +12,15 @@ Diagram describing usgae of eventials-ophrys backend technology and its interact
 .. image:: diagram.png
 
 
+deploy
+------
+
+deploy for dotcloud staging::
+
+  pip install dotcloud
+  dotcloud connect lycaste && dotcloud push
+
+
 running
 -------
 
