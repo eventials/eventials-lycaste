@@ -12,15 +12,6 @@ Diagram describing backend technology and its interactions:
 .. image:: diagram.png
 
 
-deploy
-------
-
-deploy for dotcloud staging::
-
-  sudo pip install dotcloud
-  dotcloud connect lycaste && dotcloud push
-
-
 running
 -------
 
